@@ -1,1 +1,1 @@
-# stock-bot
+# Stock Bot
